@@ -8,5 +8,5 @@
 - **교재 3장** [[SITE LINK]](https://dacon.io/codeshare/4768?page=1&dtype=recent), [[활동일지]](https://blog.naver.com/soodagnu/222700589727), [[STUDY]]()
 - Numpy : 속성, 배열생성, 타입 변경, 차원 변경, 브로드캐스팅 연산, 팬시 인덱싱, stack함수 등<br>
 - Matplotlib : subplot, cv2.imshow에서 plt.imshow로 시각화 하는 방법 등
-### 3주차 활동
+### 3주차 활동 [2022.04.11 ~ 2022.04.17]
 - **교재 2장**[[SITE LINK]](), [[활동일지]](), [[STUDY]]()
