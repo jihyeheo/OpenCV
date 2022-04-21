@@ -11,7 +11,7 @@
 - Matplotlib : subplot, cv2.imshow에서 plt.imshow로 시각화 하는 방법 등
 
 ### 3주차 활동 [2022.04.11 ~ 2022.04.17]
-- **교재 2장**[[SITE LINK]](https://dacon.io/codeshare/4837?page=1&dtype=recent), [[활동일지]](), [[STUDY]]()
+- **교재 2장**[[SITE LINK]](https://dacon.io/codeshare/4837?page=1&dtype=recent), [[활동일지]](https://blog.naver.com/soodagnu/222707763430), [[STUDY]]()
 - 이미지 입출력
 - 그림 그리기
 - 창 관리
