@@ -18,7 +18,13 @@
 - 이벤트 관리
 
 ### 4주차 활동 [2022.04.18 ~ 2022.04.24]
-- **교재 4장** [SITE LINK]](), [[활동일지]](), [[STUDY]]()
+- **교재 4장** [SITE LINK]](), [[활동일지]](), [[STUDY]](https://github.com/jihyeheo/OpenCV/blob/main/Chapter4/Cpater4Study.ipynb)
+- 관심영역(ROI)
+- 컬러 스페이스(RGB, BGR, RGBA)
+- 스레시홀딩
+- 이미지 연산
+- 히스토그램
+
 ### 5주차 활동 [2022.04.25 ~ 2022.05.01]
 - **교재 5장**SITE LINK]](), [[활동일지]](), [[STUDY]]()
 ### 6주차 활동
