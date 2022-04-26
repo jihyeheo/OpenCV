@@ -18,7 +18,7 @@
 - 이벤트 관리
 
 ### 4주차 활동 [2022.04.18 ~ 2022.04.24]
-- **교재 4장** [SITE LINK]](), [[활동일지]](), [[STUDY]](https://github.com/jihyeheo/OpenCV/blob/main/Chapter4/Cpater4Study.ipynb)
+- **교재 4장** [SITE LINK]](https://dacon.io/codeshare/4858?page=1&dtype=recent), [[활동일지]](), [[STUDY]](https://github.com/jihyeheo/OpenCV/blob/main/Chapter4/Cpater4Study.ipynb)
 - 관심영역(ROI)
 - 컬러 스페이스(RGB, BGR, RGBA)
 - 스레시홀딩
