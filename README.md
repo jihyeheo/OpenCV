@@ -1,5 +1,6 @@
 # OpenCV [2022.03.30 ~ 2022.06.18] 
-## 데이콘 서포터즈 *'데이크루 2기'* [[블로그]](https://blog.naver.com/soodagnu) [[데이콘 활동]](https://dacon.io/myprofile/409575/home) [[팀 페이지]]()
+## 데이콘 서포터즈 *'데이크루 2기'* [[블로그]](https://blog.naver.com/soodagnu) [[데이콘 활동]](https://dacon.io/myprofile/409575/home) [[팀 페이지]](https://www.notion.so/DACrew-2-POS-6beb03c042ee4aff85be924b288cf0c3)
+### 팀 : 허지혜(팀장), 강수연(팀원), 이정환(팀원), 이태범(팀원), 전다운()
 ### 교재 : 파이썬으로 만드는 OpenCV 프로젝트
 ### 데이콘 업로드 주기 : 매주 화요일 오후 2시
 
