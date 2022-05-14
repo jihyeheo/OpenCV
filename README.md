@@ -30,6 +30,6 @@
 - **교재 5장**[[SITE LINK]](https://dacon.io/codeshare/4875?page=1&dtype=recent), [[활동일지]](), [[STUDY]](https://github.com/jihyeheo/OpenCV/blob/main/Chapter5/Chapter5Study.ipynb)
 
 ### 6주차 활동 [2022.05.02 ~ 2022.05.08]
-
+- **교재 6장**
 
 ### 7주차 활동 [2022.05.09 ~ 2022.05.15]
