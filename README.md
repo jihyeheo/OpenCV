@@ -35,40 +35,46 @@
 - 렌즈 왜곡
 
 ### 6주차 활동 [2022.05.02 ~ 2022.05.08]
-- **교재 6장** [[SITE LINK]](https://dacon.io/codeshare/4898?page=1&dtype=recent), [[활동일지]](), [[STUDY]]()
+- **교재 6장** [[SITE LINK]](https://dacon.io/codeshare/4898?page=1&dtype=recent), [[활동일지]](https://blog.naver.com/soodagnu/222737326659), [[STUDY]]()
 - 컨볼루션과 블러링
 - 경계 검출
 - 모폴로지
 - 이미지 피라미드
 
 ### 7주차 활동 [2022.05.09 ~ 2022.05.15]
-- **프로젝트1 : Multi-Hand Gesture Recognition** [[Project Page]](https://github.com/jihyeheo/HandGestureRecognition), [[SITE LINK]]()
+- **프로젝트1 : Multi-Hand Gesture Recognition** [[Project Page]](https://github.com/jihyeheo/HandGestureRecognition), [[SITE LINK]](https://dacon.io/codeshare/4956)
 - yes, no, like, heart 4가지 동작을 분류하여 화면에 표시
 - train : 동영상 -> npy파일
 - test : 웹 갬 안에서 실시간으로 분류하고 UI,UX로 표시
 - 모형 : Dropout, L2규제, Early Stopping layer가 들어있는 **LSTM**
 
 ### 8주차 활동 [2022.05.16 ~ 2022.05.22]
-- **프로젝트1 : Multi-Hand Gesture Recognition** [[Project Page]](https://github.com/jihyeheo/HandGestureRecognition), [[SITE LINK]]()
+- **프로젝트1 : Multi-Hand Gesture Recognition** [[Project Page]](https://github.com/jihyeheo/HandGestureRecognition), [[SITE LINK]](https://dacon.io/codeshare/5006)
 - 위치 종속성 때문에 화면의 외곽에서는 분류가 잘 안되는 현상 발생
 - 이를 해결하기 위한 게시글
 
 ### 9주차 활동 [2022.05.23 ~ 2022.05.29]
-- **교재 7장** [[SITE LINK]](), [[활동일지]](), [[Study]](https://github.com/jihyeheo/OpenCV/blob/main/Chapter7/Chapter7Study.ipynb)
-- 배경과 물체 분리, 선 따내기 등과 관련된 내용
+- **교재 7장** [[SITE LINK]](https://dacon.io/codeshare/5072), [[활동일지]](https://blog.naver.com/soodagnu/222762063189), [[Study]](https://github.com/jihyeheo/OpenCV/blob/main/Chapter7/Chapter7Study.ipynb)
+- **배경과 물체 분리, 선 따내기 등과 관련된 내용**
 - 컨투어
 - 허프 변환
 - 연속 영역 분할
 
-### 10주차 활동 [2022.05.30 ~ 2022.06.05](진)
-- **교재 8장** [[SITE LINK]](), [[활동일지]](), [[Study]](https://github.com/jihyeheo/OpenCV/tree/main/Chapter8)
+### 10주차 활동 [2022.05.30 ~ 2022.06.05]
+- **교재 8장** [[SITE LINK]](https://dacon.io/codeshare/5106?page=1&dtype=recent&fType=), [[활동일지]](), [[Study]](https://github.com/jihyeheo/OpenCV/tree/main/Chapter8)
 - 유사도 구하기
 - 영상 특징점
 - 디스크립터 추출기
 - 특징 매칭
-- 객체 추적
 
 ### 11주차 활동 [2022.06.06 ~ 2022.06.12]
-- **교재 9장**(진)
+- **교재 9장**
+- OpenCV와 머신러닝
+- K-means 클러스터
+- K-nn
+- SVM과 HOG
+- BOW
+- 캐스케이드 분류기
+
 ### 12주차 활동 [2022.06.13 ~ 2022.06.18]
 - **프로젝트2 : U-Net, special Attention등을 이용한 segmentation 비교**(진)
