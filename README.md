@@ -72,7 +72,7 @@
 - OpenCV와 머신러닝
 - K-means 클러스터
 - K-nn
-- SVM과 HOG
+- SVM과 HOG 
 - BOW
 - 캐스케이드 분류기
 
