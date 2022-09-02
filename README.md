@@ -77,4 +77,6 @@
 - 캐스케이드 분류기
 
 ### 12주차 활동 [2022.06.13 ~ 2022.06.18]
-- **프로젝트2 : U-Net, special Attention등을 이용한 segmentation 비교**(진)
+- **프로젝트2 : U-Net, special Attention등을 이용한 segmentation 비교**[[Project Page]] [[SITE LINK1]](https://dacon.io/codeshare/5185), [[SITE LINK2]](https://dacon.io/codeshare/5186), [[SITE LINK3]](https://dacon.io/codeshare/5186)
+- 다른 전처리 방법을 이용한 UNET, RESUNET, RPARESUNET 결과 비교
+- Segmentation 데이터를 이용함.
